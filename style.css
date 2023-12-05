@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(110, 9, 9);
+}
+h1 {
+  color: antiquewhite;
+  font-weight: 300;
+  font-size: 30pt;
+  font-weight: bold;
+  font-family: "Caveat", cursive;
+  font-family: "Lobster", sans-serif;
+  font-family: "Mountains of Christmas", serif;
+}
+ul {
+  color: antiquewhite;
+  font-size: 18pt;
+  font-family: "Caveat", cursive;
+  font-family: "Lobster", sans-serif;
+  font-family: "Mountains of Christmas", serif;
+}
+a {
+  color: antiquewhite;
+}
